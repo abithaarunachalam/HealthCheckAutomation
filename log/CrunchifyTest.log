@@ -1,0 +1,122 @@
+2021-08-04 22:29:15 [main] INFO  filedata:48 - ****************************************************************************************************
+2021-08-04 22:29:15 [main] INFO  filedata:49 - STARTED - TC001_I_Login
+2021-08-04 22:29:15 [main] INFO  filedata:54 - SCENARIO ID: TC001_I_Login
+2021-08-04 23:00:45 [main] INFO  outfile:134 - STEP - Given I start the web browser
+2021-08-05 15:22:39 [main] INFO  outfile:135 - STEP - Given I start the web browser
+2021-08-05 18:28:34 [main] ERROR rootlog:82 - Cannot find properties files
+2021-08-05 18:28:34 [main] INFO  filedata:59 - ****************************************************************************************************
+2021-08-05 18:28:34 [main] INFO  filedata:60 - STARTED - TC001_I_Login
+2021-08-05 18:28:34 [main] INFO  filedata:65 - SCENARIO ID: TC001_I_Login
+2021-08-05 18:43:50 [main] INFO  outfile:118 - STEP - Given I start the web browser
+2021-08-05 18:51:52 [main] INFO  outfile:118 - STEP - Given I start the web browser
+2021-08-07 11:39:23 [main] INFO  outfile:118 - STEP - Given I start the web browser
+2021-08-07 13:33:29 [main] INFO  outfile:118 - STEP - Given I start the web browser
+2021-09-08 14:10:05 [main] INFO  outfile:118 - STEP - Then I close the browser
+2021-09-08 14:26:07 [main] ERROR rootlog:39 - pages.Launch_PageUnable to launch URLnull
+2021-09-08 15:13:59 [main] ERROR rootlog:39 - pages.Launch_PageUnable to launch URLnull
+2021-09-08 15:13:59 [main] ERROR rootlog:39 - pages.Launch_PageUnable to launch URLnull
+2021-09-08 15:17:50 [main] ERROR rootlog:39 - pages.Launch_PageUnable to launch URLnull
+2021-09-08 15:17:50 [main] ERROR rootlog:39 - pages.Launch_PageUnable to launch URLnull
+2021-09-08 15:19:39 [main] ERROR rootlog:39 - pages.Launch_PageUnable to launch URLnull
+2021-09-08 15:19:39 [main] ERROR rootlog:39 - pages.Launch_PageUnable to launch URLnull
+2021-09-08 17:23:03 [main] ERROR rootlog:39 - pages.Launch_PageUnable to launch URLnull
+2021-09-08 17:23:03 [main] ERROR rootlog:39 - pages.Launch_PageUnable to launch URLnull
+2021-09-08 17:23:44 [main] ERROR rootlog:39 - pages.Launch_PageUnable to launch URLnull
+2021-09-08 17:23:44 [main] ERROR rootlog:39 - pages.Launch_PageUnable to launch URLnull
+2021-09-08 17:25:13 [main] ERROR rootlog:39 - pages.Launch_PageUnable to launch URLnull
+2021-09-08 17:25:13 [main] ERROR rootlog:39 - pages.Launch_PageUnable to launch URLnull
+2021-09-08 17:26:37 [main] ERROR rootlog:39 - pages.Launch_PageUnable to launch URLnull
+2021-09-08 17:26:37 [main] ERROR rootlog:39 - pages.Launch_PageUnable to launch URLnull
+2021-09-08 17:38:22 [main] ERROR rootlog:85 - Cannot find properties files
+2021-09-08 17:38:22 [main] ERROR rootlog:85 - Cannot find properties files
+2021-09-08 17:38:22 [main] ERROR rootlog:85 - Cannot find properties files
+2021-09-08 17:38:22 [main] ERROR rootlog:85 - Cannot find properties files
+2021-09-08 17:38:25 [main] ERROR rootlog:85 - Cannot find properties files
+2021-09-08 17:38:25 [main] ERROR rootlog:85 - Cannot find properties files
+2021-09-08 17:38:25 [main] ERROR rootlog:39 - pages.Launch_PageUnable to launch URLnull
+2021-09-08 17:38:25 [main] ERROR rootlog:85 - Cannot find properties files
+2021-09-08 17:38:25 [main] ERROR rootlog:85 - Cannot find properties files
+2021-09-08 17:38:25 [main] ERROR rootlog:85 - Cannot find properties files
+2021-09-08 17:38:25 [main] ERROR rootlog:85 - Cannot find properties files
+2021-09-08 17:38:25 [main] ERROR rootlog:85 - Cannot find properties files
+2021-09-08 17:38:25 [main] ERROR rootlog:39 - pages.Launch_PageUnable to launch URLnull
+2021-09-08 17:40:19 [main] ERROR rootlog:87 - Cannot find properties files
+2021-09-08 17:40:19 [main] ERROR rootlog:87 - Cannot find properties files
+2021-09-08 17:40:19 [main] ERROR rootlog:87 - Cannot find properties files
+2021-09-08 17:40:19 [main] ERROR rootlog:87 - Cannot find properties files
+2021-09-08 17:40:21 [main] ERROR rootlog:87 - Cannot find properties files
+2021-09-08 17:40:21 [main] ERROR rootlog:87 - Cannot find properties files
+2021-09-08 17:40:21 [main] ERROR rootlog:39 - pages.Launch_PageUnable to launch URLnull
+2021-09-08 17:40:21 [main] ERROR rootlog:87 - Cannot find properties files
+2021-09-08 17:40:21 [main] ERROR rootlog:87 - Cannot find properties files
+2021-09-08 17:40:21 [main] ERROR rootlog:87 - Cannot find properties files
+2021-09-08 17:40:21 [main] ERROR rootlog:87 - Cannot find properties files
+2021-09-08 17:40:21 [main] ERROR rootlog:87 - Cannot find properties files
+2021-09-08 17:40:21 [main] ERROR rootlog:39 - pages.Launch_PageUnable to launch URLnull
+2021-09-08 17:42:19 [main] ERROR rootlog:88 - Cannot find properties files
+2021-09-08 17:42:19 [main] ERROR rootlog:88 - Cannot find properties files
+2021-09-08 17:42:19 [main] ERROR rootlog:88 - Cannot find properties files
+2021-09-08 17:42:19 [main] ERROR rootlog:88 - Cannot find properties files
+2021-09-08 17:42:21 [main] ERROR rootlog:88 - Cannot find properties files
+2021-09-08 17:42:21 [main] ERROR rootlog:88 - Cannot find properties files
+2021-09-08 17:42:21 [main] ERROR rootlog:39 - pages.Launch_PageUnable to launch URLnull
+2021-09-08 17:42:21 [main] ERROR rootlog:88 - Cannot find properties files
+2021-09-08 17:42:21 [main] ERROR rootlog:88 - Cannot find properties files
+2021-09-08 17:42:21 [main] ERROR rootlog:88 - Cannot find properties files
+2021-09-08 17:42:21 [main] ERROR rootlog:88 - Cannot find properties files
+2021-09-08 17:42:21 [main] ERROR rootlog:88 - Cannot find properties files
+2021-09-08 17:42:21 [main] ERROR rootlog:39 - pages.Launch_PageUnable to launch URLnull
+2021-09-08 17:43:23 [main] ERROR rootlog:88 - Cannot find properties files
+2021-09-08 17:43:23 [main] ERROR rootlog:88 - Cannot find properties files
+2021-09-08 17:43:23 [main] ERROR rootlog:88 - Cannot find properties files
+2021-09-08 17:43:23 [main] ERROR rootlog:88 - Cannot find properties files
+2021-09-08 17:43:24 [main] ERROR rootlog:88 - Cannot find properties files
+2021-09-08 17:43:25 [main] ERROR rootlog:88 - Cannot find properties files
+2021-09-08 17:43:25 [main] ERROR rootlog:39 - pages.Launch_PageUnable to launch URLnull
+2021-09-08 17:43:25 [main] ERROR rootlog:88 - Cannot find properties files
+2021-09-08 17:43:25 [main] ERROR rootlog:88 - Cannot find properties files
+2021-09-08 17:43:25 [main] ERROR rootlog:88 - Cannot find properties files
+2021-09-08 17:43:25 [main] ERROR rootlog:88 - Cannot find properties files
+2021-09-08 17:43:25 [main] ERROR rootlog:88 - Cannot find properties files
+2021-09-08 17:43:25 [main] ERROR rootlog:39 - pages.Launch_PageUnable to launch URLnull
+2021-09-08 17:47:46 [main] ERROR rootlog:88 - Cannot find properties files
+2021-09-08 17:47:46 [main] ERROR rootlog:88 - Cannot find properties files
+2021-09-08 17:47:46 [main] ERROR rootlog:88 - Cannot find properties files
+2021-09-08 17:47:46 [main] ERROR rootlog:88 - Cannot find properties files
+2021-09-08 17:47:48 [main] ERROR rootlog:88 - Cannot find properties files
+2021-09-08 17:47:48 [main] ERROR rootlog:88 - Cannot find properties files
+2021-09-08 17:47:48 [main] ERROR rootlog:39 - pages.Launch_PageUnable to launch URLnull
+2021-09-08 17:47:48 [main] ERROR rootlog:88 - Cannot find properties files
+2021-09-08 17:47:48 [main] ERROR rootlog:88 - Cannot find properties files
+2021-09-08 17:47:48 [main] ERROR rootlog:88 - Cannot find properties files
+2021-09-08 17:47:48 [main] ERROR rootlog:88 - Cannot find properties files
+2021-09-08 17:47:48 [main] ERROR rootlog:88 - Cannot find properties files
+2021-09-08 17:47:48 [main] ERROR rootlog:39 - pages.Launch_PageUnable to launch URLnull
+2021-09-08 17:49:57 [main] ERROR rootlog:39 - pages.Launch_PageUnable to launch URLnull
+2021-09-08 17:49:57 [main] ERROR rootlog:39 - pages.Launch_PageUnable to launch URLnull
+2021-09-08 18:37:45 [main] INFO  outfile:90 - By.xpath: //*[contains(@title, 'Search')] FOUND
+2021-09-08 18:37:46 [main] INFO  outfile:183 - Element click [[ChromeDriver: chrome on MAC (b585dc642044d1750f7b998a3c61466a)] -> xpath: //*[contains(@title, 'Search')]] successful
+2021-09-08 18:39:23 [main] INFO  outfile:90 - By.xpath: //*[contains(@title, 'Search')] FOUND
+2021-09-08 18:39:23 [main] INFO  outfile:183 - Element click [[ChromeDriver: chrome on MAC (745fdaf25449f83eea31bf1313acdc64)] -> xpath: //*[contains(@title, 'Search')]] successful
+2021-09-08 18:39:23 [main] INFO  outfile:90 - By.xpath: //*[contains(@title, 'Search')] FOUND
+2021-09-08 18:39:23 [main] INFO  outfile:419 - Element set - [[ChromeDriver: chrome on MAC (745fdaf25449f83eea31bf1313acdc64)] -> xpath: //*[contains(@title, 'Search')]] - hello
+2021-09-25 10:37:29 [main] INFO  outfile:90 - By.xpath: //*[contains(@title, 'Search')] FOUND
+2021-09-25 10:37:30 [main] INFO  outfile:234 - Element click [[ChromeDriver: chrome on MAC (5272c178203c0fab6daf31b11e7e4013)] -> xpath: //*[contains(@title, 'Search')]] successful
+2021-09-25 10:37:30 [main] INFO  outfile:90 - By.xpath: //*[contains(@title, 'Search')] FOUND
+2021-09-25 10:37:30 [main] INFO  outfile:144 - Element set - [[ChromeDriver: chrome on MAC (5272c178203c0fab6daf31b11e7e4013)] -> xpath: //*[contains(@title, 'Search')]] - hello
+2021-09-25 11:23:24 [main] INFO  outfile:90 - By.xpath: //*[contains(@title, 'Search')] FOUND
+2021-09-25 11:23:24 [main] INFO  outfile:222 - Element click [[ChromeDriver: chrome on MAC (34bcebc6fd8a589926a91a5937eb9c98)] -> xpath: //*[contains(@title, 'Search')]] successful
+2021-09-25 11:23:24 [main] INFO  outfile:90 - By.xpath: //*[contains(@title, 'Search')] FOUND
+2021-09-25 11:23:24 [main] INFO  outfile:142 - Element set - [[ChromeDriver: chrome on MAC (34bcebc6fd8a589926a91a5937eb9c98)] -> xpath: //*[contains(@title, 'Search')]] - hello
+2021-09-25 11:29:47 [main] INFO  outfile:222 - Element click [[ChromeDriver: chrome on MAC (e8c3a4daa8d2bb38c77ff87bb66f138a)] -> xpath: //*[contains(@title, 'Search')]] successful
+2021-09-25 11:29:47 [main] INFO  outfile:90 - By.xpath: //*[contains(@title, 'Search')] FOUND
+2021-09-25 11:29:47 [main] INFO  outfile:142 - Element set - [[ChromeDriver: chrome on MAC (e8c3a4daa8d2bb38c77ff87bb66f138a)] -> xpath: //*[contains(@title, 'Search')]] - hello
+2021-09-25 11:32:34 [main] INFO  outfile:222 - Element click [[ChromeDriver: chrome on MAC (de5c113363f7e6af42898827f5510e9d)] -> xpath: //*[contains(@title, 'Search')]] successful
+2021-09-25 11:32:34 [main] INFO  outfile:90 - By.xpath: //*[contains(@title, 'Search')] FOUND
+2021-09-25 11:32:34 [main] INFO  outfile:142 - Element set - [[ChromeDriver: chrome on MAC (de5c113363f7e6af42898827f5510e9d)] -> xpath: //*[contains(@title, 'Search')]] - hello
+2021-09-25 11:43:34 [main] INFO  outfile:220 - Element click [[ChromeDriver: chrome on MAC (965b59acbf996a99f71ea4dea1cd5167)] -> xpath: //*[contains(@title, 'Search')]] successful
+2021-09-25 11:43:34 [main] INFO  outfile:90 - By.xpath: //*[contains(@title, 'Search')] FOUND
+2021-09-25 11:43:34 [main] INFO  outfile:141 - Element set - [[ChromeDriver: chrome on MAC (965b59acbf996a99f71ea4dea1cd5167)] -> xpath: //*[contains(@title, 'Search')]] - hello
+2021-09-25 16:40:35 [main] INFO  outfile:217 - Element click [[ChromeDriver: chrome on MAC (1cc2299020d362cc2b6a1e751560469a)] -> xpath: //*[contains(@title, 'Search')]] successful
+2021-09-25 16:40:35 [main] INFO  outfile:90 - By.xpath: //*[contains(@title, 'Search')] FOUND
+2021-09-25 16:40:35 [main] INFO  outfile:139 - Element set - [[ChromeDriver: chrome on MAC (1cc2299020d362cc2b6a1e751560469a)] -> xpath: //*[contains(@title, 'Search')]] - hello
